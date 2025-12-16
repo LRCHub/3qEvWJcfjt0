@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Viking",
+  "base_artist": "Mrs. GREEN APPLE",
+  "createdAt": "2025-12-16T15:55:53.078988Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Quiet Viking",
+      "artist": "Dan Bull",
+      "has_synced": true,
+      "path": "select/01_The_Quiet_Viking_Dan_Bull.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Song of the Viking",
+      "artist": "Todd Rundgren",
+      "has_synced": true,
+      "path": "select/02_Song_of_the_Viking_Todd_Rundgren.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Am a Viking",
+      "artist": "Yngwie J. Malmsteen’s Rising Force",
+      "has_synced": true,
+      "path": "select/03_I_Am_a_Viking_Yngwie_J._Malmsteen’s_Rising_Force.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Last Viking",
+      "artist": "Leaves' Eyes",
+      "has_synced": true,
+      "path": "select/04_The_Last_Viking_Leaves'_Eyes.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Last Viking (Instrumental version)",
+      "artist": "Leaves’ Eyes",
+      "has_synced": true,
+      "path": "select/05_The_Last_Viking_(Instrumental_version)_Leaves’_Eyes.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Times New Viking vs. Yo la Tengo",
+      "artist": "Times New Viking",
+      "has_synced": false,
+      "path": "select/06_Times_New_Viking_vs._Yo_la_Tengo_Times_New_Viking.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Viking Suit",
+      "artist": "The Vandals",
+      "has_synced": false,
+      "path": "select/07_Viking_Suit_The_Vandals.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Viking Hair",
+      "artist": "Dry Cleaning",
+      "has_synced": true,
+      "path": "select/08_Viking_Hair_Dry_Cleaning.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Viking Death March",
+      "artist": "Billy Talent",
+      "has_synced": true,
+      "path": "select/09_Viking_Death_March_Billy_Talent.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Am A Viking",
+      "artist": "Yngwie Malmsteen",
+      "has_synced": false,
+      "path": "select/10_I_Am_A_Viking_Yngwie_Malmsteen.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Am A Viking",
+      "artist": "Yngwie Malmsteen",
+      "has_synced": true,
+      "path": "select/11_I_Am_A_Viking_Yngwie_Malmsteen.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I Am a Viking",
+      "artist": "Yngwie J. Malmsteen's Rising Force",
+      "has_synced": true,
+      "path": "select/12_I_Am_a_Viking_Yngwie_J._Malmsteen's_Rising_Force.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Viking",
+      "artist": "Los Lobos",
+      "has_synced": true,
+      "path": "select/13_Viking_Los_Lobos.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Viking Juice",
+      "artist": "INXS",
+      "has_synced": true,
+      "path": "select/14_Viking_Juice_INXS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Viking",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_01_Viking_Mrs._GREEN_APPLE.txt"
+    }
+  ]
+}
